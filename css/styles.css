@@ -1,0 +1,23 @@
+body {
+    background-color: #3355ff;
+}
+
+
+
+ol {
+    width: 200px;
+}
+img {
+    width: 300px;
+    border: 15 px solid black;
+    border-radius: 15px 50px 800px 5px;
+    box-shadow: 10px 10px 10px gray;
+    border-style: solid;
+}
+
+.header-container {
+    width: 100%;
+    text-align: center;}
+
+
+
